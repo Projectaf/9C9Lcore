@@ -1,0 +1,8 @@
+c = complete
+u = unimplemented
+
+c   AntiIllegal
+c   ChatCo
+u   ExploitFixer (AntiRedstone lag, elytra speed limit to start)
+u   Commands (/vote, /nc, /speed (fly speed), /world, /back)
+u   Votiifer support
