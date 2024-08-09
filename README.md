@@ -1,4 +1,4 @@
-![Banner](https://i.imgur.com/ICdayxt.jpeg)
+
 
 # 9C9LCore
 *Folia Core Plugin for 9C9L and Anarchy Servers*
